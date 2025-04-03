@@ -1,0 +1,28 @@
+C:\Users\Segor\Desktop\VetmoMoment\VetmoMoment\bin\Debug\net8.0\VetmoMoment.exe
+C:\Users\Segor\Desktop\VetmoMoment\VetmoMoment\bin\Debug\net8.0\VetmoMoment.deps.json
+C:\Users\Segor\Desktop\VetmoMoment\VetmoMoment\bin\Debug\net8.0\VetmoMoment.runtimeconfig.json
+C:\Users\Segor\Desktop\VetmoMoment\VetmoMoment\bin\Debug\net8.0\VetmoMoment.dll
+C:\Users\Segor\Desktop\VetmoMoment\VetmoMoment\bin\Debug\net8.0\VetmoMoment.pdb
+C:\Users\Segor\Desktop\VetmoMoment\VetmoMoment\obj\Debug\net8.0\VetmoMoment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segor\Desktop\VetmoMoment\VetmoMoment\obj\Debug\net8.0\VetmoMoment.AssemblyInfoInputs.cache
+C:\Users\Segor\Desktop\VetmoMoment\VetmoMoment\obj\Debug\net8.0\VetmoMoment.AssemblyInfo.cs
+C:\Users\Segor\Desktop\VetmoMoment\VetmoMoment\obj\Debug\net8.0\VetmoMoment.csproj.CoreCompileInputs.cache
+C:\Users\Segor\Desktop\VetmoMoment\VetmoMoment\obj\Debug\net8.0\VetmoMoment.dll
+C:\Users\Segor\Desktop\VetmoMoment\VetmoMoment\obj\Debug\net8.0\refint\VetmoMoment.dll
+C:\Users\Segor\Desktop\VetmoMoment\VetmoMoment\obj\Debug\net8.0\VetmoMoment.pdb
+C:\Users\Segor\Desktop\VetmoMoment\VetmoMoment\obj\Debug\net8.0\VetmoMoment.genruntimeconfig.cache
+C:\Users\Segor\Desktop\VetmoMoment\VetmoMoment\obj\Debug\net8.0\ref\VetmoMoment.dll
+F:\ОП\Практика №8\VetmoMoment\VetmoMoment\bin\Debug\net8.0\VetmoMoment.exe
+F:\ОП\Практика №8\VetmoMoment\VetmoMoment\bin\Debug\net8.0\VetmoMoment.deps.json
+F:\ОП\Практика №8\VetmoMoment\VetmoMoment\bin\Debug\net8.0\VetmoMoment.runtimeconfig.json
+F:\ОП\Практика №8\VetmoMoment\VetmoMoment\bin\Debug\net8.0\VetmoMoment.dll
+F:\ОП\Практика №8\VetmoMoment\VetmoMoment\bin\Debug\net8.0\VetmoMoment.pdb
+F:\ОП\Практика №8\VetmoMoment\VetmoMoment\obj\Debug\net8.0\VetmoMoment.GeneratedMSBuildEditorConfig.editorconfig
+F:\ОП\Практика №8\VetmoMoment\VetmoMoment\obj\Debug\net8.0\VetmoMoment.AssemblyInfoInputs.cache
+F:\ОП\Практика №8\VetmoMoment\VetmoMoment\obj\Debug\net8.0\VetmoMoment.AssemblyInfo.cs
+F:\ОП\Практика №8\VetmoMoment\VetmoMoment\obj\Debug\net8.0\VetmoMoment.csproj.CoreCompileInputs.cache
+F:\ОП\Практика №8\VetmoMoment\VetmoMoment\obj\Debug\net8.0\VetmoMoment.dll
+F:\ОП\Практика №8\VetmoMoment\VetmoMoment\obj\Debug\net8.0\refint\VetmoMoment.dll
+F:\ОП\Практика №8\VetmoMoment\VetmoMoment\obj\Debug\net8.0\VetmoMoment.pdb
+F:\ОП\Практика №8\VetmoMoment\VetmoMoment\obj\Debug\net8.0\VetmoMoment.genruntimeconfig.cache
+F:\ОП\Практика №8\VetmoMoment\VetmoMoment\obj\Debug\net8.0\ref\VetmoMoment.dll
