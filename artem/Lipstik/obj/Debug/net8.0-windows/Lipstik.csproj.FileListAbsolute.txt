@@ -1,0 +1,76 @@
+C:\Users\Segor\Desktop\Lipstik\Lipstik\bin\Debug\net8.0-windows\Lipstik.exe
+C:\Users\Segor\Desktop\Lipstik\Lipstik\bin\Debug\net8.0-windows\Lipstik.deps.json
+C:\Users\Segor\Desktop\Lipstik\Lipstik\bin\Debug\net8.0-windows\Lipstik.runtimeconfig.json
+C:\Users\Segor\Desktop\Lipstik\Lipstik\bin\Debug\net8.0-windows\Lipstik.dll
+C:\Users\Segor\Desktop\Lipstik\Lipstik\bin\Debug\net8.0-windows\Lipstik.pdb
+C:\Users\Segor\Desktop\Lipstik\Lipstik\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Segor\Desktop\Lipstik\Lipstik\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Segor\Desktop\Lipstik\Lipstik\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Segor\Desktop\Lipstik\Lipstik\obj\Debug\net8.0-windows\Lipstik_MarkupCompile.cache
+C:\Users\Segor\Desktop\Lipstik\Lipstik\obj\Debug\net8.0-windows\Lipstik.g.resources
+C:\Users\Segor\Desktop\Lipstik\Lipstik\obj\Debug\net8.0-windows\Lipstik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Segor\Desktop\Lipstik\Lipstik\obj\Debug\net8.0-windows\Lipstik.AssemblyInfoInputs.cache
+C:\Users\Segor\Desktop\Lipstik\Lipstik\obj\Debug\net8.0-windows\Lipstik.AssemblyInfo.cs
+C:\Users\Segor\Desktop\Lipstik\Lipstik\obj\Debug\net8.0-windows\Lipstik.csproj.CoreCompileInputs.cache
+C:\Users\Segor\Desktop\Lipstik\Lipstik\obj\Debug\net8.0-windows\Lipstik.dll
+C:\Users\Segor\Desktop\Lipstik\Lipstik\obj\Debug\net8.0-windows\refint\Lipstik.dll
+C:\Users\Segor\Desktop\Lipstik\Lipstik\obj\Debug\net8.0-windows\Lipstik.pdb
+C:\Users\Segor\Desktop\Lipstik\Lipstik\obj\Debug\net8.0-windows\Lipstik.genruntimeconfig.cache
+C:\Users\Segor\Desktop\Lipstik\Lipstik\obj\Debug\net8.0-windows\ref\Lipstik.dll
+F:\ОП\Практика №8\Lipstik\Lipstik\bin\Debug\net8.0-windows\Lipstik.exe
+F:\ОП\Практика №8\Lipstik\Lipstik\bin\Debug\net8.0-windows\Lipstik.deps.json
+F:\ОП\Практика №8\Lipstik\Lipstik\bin\Debug\net8.0-windows\Lipstik.runtimeconfig.json
+F:\ОП\Практика №8\Lipstik\Lipstik\bin\Debug\net8.0-windows\Lipstik.dll
+F:\ОП\Практика №8\Lipstik\Lipstik\bin\Debug\net8.0-windows\Lipstik.pdb
+F:\ОП\Практика №8\Lipstik\Lipstik\obj\Debug\net8.0-windows\MainWindow.baml
+F:\ОП\Практика №8\Lipstik\Lipstik\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\ОП\Практика №8\Lipstik\Lipstik\obj\Debug\net8.0-windows\App.g.cs
+F:\ОП\Практика №8\Lipstik\Lipstik\obj\Debug\net8.0-windows\Lipstik_MarkupCompile.cache
+F:\ОП\Практика №8\Lipstik\Lipstik\obj\Debug\net8.0-windows\Lipstik.g.resources
+F:\ОП\Практика №8\Lipstik\Lipstik\obj\Debug\net8.0-windows\Lipstik.GeneratedMSBuildEditorConfig.editorconfig
+F:\ОП\Практика №8\Lipstik\Lipstik\obj\Debug\net8.0-windows\Lipstik.AssemblyInfoInputs.cache
+F:\ОП\Практика №8\Lipstik\Lipstik\obj\Debug\net8.0-windows\Lipstik.AssemblyInfo.cs
+F:\ОП\Практика №8\Lipstik\Lipstik\obj\Debug\net8.0-windows\Lipstik.csproj.CoreCompileInputs.cache
+F:\ОП\Практика №8\Lipstik\Lipstik\obj\Debug\net8.0-windows\Lipstik.dll
+F:\ОП\Практика №8\Lipstik\Lipstik\obj\Debug\net8.0-windows\refint\Lipstik.dll
+F:\ОП\Практика №8\Lipstik\Lipstik\obj\Debug\net8.0-windows\Lipstik.pdb
+F:\ОП\Практика №8\Lipstik\Lipstik\obj\Debug\net8.0-windows\Lipstik.genruntimeconfig.cache
+F:\ОП\Практика №8\Lipstik\Lipstik\obj\Debug\net8.0-windows\ref\Lipstik.dll
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\bin\Debug\net8.0-windows\Lipstik.exe
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\bin\Debug\net8.0-windows\Lipstik.deps.json
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\bin\Debug\net8.0-windows\Lipstik.runtimeconfig.json
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\bin\Debug\net8.0-windows\Lipstik.dll
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\bin\Debug\net8.0-windows\Lipstik.pdb
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\MainWindow.baml
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\MainWindow.g.cs
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\App.g.cs
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\Lipstik_MarkupCompile.cache
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\Lipstik.g.resources
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\Lipstik.GeneratedMSBuildEditorConfig.editorconfig
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\Lipstik.AssemblyInfoInputs.cache
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\Lipstik.AssemblyInfo.cs
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\Lipstik.csproj.CoreCompileInputs.cache
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\Lipstik.dll
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\refint\Lipstik.dll
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\Lipstik.pdb
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\Lipstik.genruntimeconfig.cache
+F:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\ref\Lipstik.dll
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\bin\Debug\net8.0-windows\Lipstik.exe
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\bin\Debug\net8.0-windows\Lipstik.deps.json
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\bin\Debug\net8.0-windows\Lipstik.runtimeconfig.json
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\bin\Debug\net8.0-windows\Lipstik.dll
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\bin\Debug\net8.0-windows\Lipstik.pdb
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\MainWindow.baml
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\App.g.cs
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\Lipstik_MarkupCompile.cache
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\Lipstik.g.resources
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\Lipstik.GeneratedMSBuildEditorConfig.editorconfig
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\Lipstik.AssemblyInfoInputs.cache
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\Lipstik.AssemblyInfo.cs
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\Lipstik.csproj.CoreCompileInputs.cache
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\Lipstik.dll
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\refint\Lipstik.dll
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\Lipstik.pdb
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\Lipstik.genruntimeconfig.cache
+D:\ОП\Практика №8\Lipstik(WPF)\Lipstik\obj\Debug\net8.0-windows\ref\Lipstik.dll
